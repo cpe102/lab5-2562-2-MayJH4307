@@ -9,7 +9,7 @@ string mixText(string a,string b){
 	 }
 
 	 int i = 0;
-	 int n = la;
+	 int n = la ;
 	 string e;
 	 while(i<n){
 		 e = e+a[i]+b[i];
