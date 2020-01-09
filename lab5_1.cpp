@@ -29,7 +29,7 @@ int main(){
 	{
 		if(age[i] == key)
 		{
-		cout << name[i] << endl;
+		cout << name[i] << endl ;
 		}
 		i++;
 	}
